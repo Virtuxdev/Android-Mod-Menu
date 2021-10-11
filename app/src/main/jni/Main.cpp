@@ -16,7 +16,7 @@
 #include "Menu.h"
 
 //Target lib here
-#define targetLibName OBFUSCATE("libUE4.so")
+#define targetLibName OBFUSCATE("libFileA.so")
 
 #include "Includes/Macros.h"
 
